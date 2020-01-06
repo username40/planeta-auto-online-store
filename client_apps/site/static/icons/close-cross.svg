@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>F2484C36-542B-4ED6-8106-456670AA19FD</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M16.6261281,15.0304943 L13.6931672,12.0004856 L16.6261281,8.96950568 C17.124624,8.518889 17.124624,7.7885792 16.6261281,7.33796251 C16.1276321,6.88734583 15.3186506,6.88734583 14.8201547,7.33796251 L12,10.2514325 L9.17984529,7.33796251 C8.68134938,6.88734583 7.8734422,6.88734583 7.37387194,7.33796251 C6.87537602,7.7885792 6.87537602,8.518889 7.37387194,8.96950568 L10.3068328,12.0004856 L7.37387194,15.0304943 C6.87537602,15.481111 6.87537602,16.2114208 7.37387194,16.6620375 C7.87236786,17.1126542 8.68027503,17.1126542 9.17984529,16.6620375 L12,13.7485675 L14.8201547,16.6620375 C15.319725,17.1126542 16.1276321,17.1126542 16.6261281,16.6620375 C17.124624,16.2114208 17.1235496,15.481111 16.6261281,15.0304943 L16.6261281,15.0304943 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ic/-Control/-3">
+            <g>
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="Color/-Prime/-Violet" mask="url(#mask-2)" fill="#32377D">
+                    <rect id="Rectangle-Copy-10" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

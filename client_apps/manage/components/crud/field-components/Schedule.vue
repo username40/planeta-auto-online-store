@@ -1,0 +1,42 @@
+<template>
+
+</template>
+
+<script>
+    export default {
+        name: "TextareField",
+        props: {
+            fieldValue: String|Number,
+            label: {
+                type: String,
+                default: null,
+            },
+            type: {
+                type: String,
+                default: 'text',
+            },
+            error: Boolean,
+            rules: Array,
+        },
+        data: () => ({
+            localValue: null
+        }),
+        mounted: function () {
+            this.localValue = this.fieldValue;
+        },
+        watch: {
+            fieldValue: function (val) {
+                this.localValue = val;
+            },
+        },
+        methods: {
+            updateItem: function () {
+                this.$emit('update-item-value', this.localValue);
+            },
+        }
+    }
+</script>
+
+<style scoped>
+
+</style>

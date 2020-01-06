@@ -1,0 +1,1194 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "alias": "shell",
+      "name": "Моторное масло shell Helix Ultra 5w-40",
+      "price": 1990,
+      "category": "Моторные масла",
+      "bigImg": "/images/goods/01.jpg",
+      "isAvailable": true,
+      "availableStoresId": [1,2],
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/01.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/02.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/03.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/04.jpg"},
+        {
+          "id": 5,
+          "src": "/images/goods/05.jpg"},
+        {
+          "id": 6,
+          "src": "/images/goods/06.jpg"},
+        {
+          "id": 7,
+          "src": "/images/goods/07.jpg"},
+        {
+          "id": 8,
+          "src": "/images/goods/08.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": true,
+      "discountPercent": 5,
+      "oldPrice": true,
+      "oldPriceValue": 2150,
+      "gift": true,
+      "inStock": 35
+    },
+    {
+      "id": 2,
+      "alias": "mobil",
+      "name": "Масло моторное Mobil Super 3000 x1 5w-40",
+      "price": 2000,
+      "category": "Моторные масла",
+      "bigImg": "/images/goods/02.jpg",
+      "isAvailable": false,
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/06.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/07.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/08.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/09.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": false,
+      "discountPercent": 10,
+      "oldPrice": false,
+      "oldPriceValue": 2150,
+      "gift": true,
+      "inStock": 105
+    },
+    {
+      "id": 3,
+      "alias": "mobil",
+      "name": "Масло моторное GM Dexos2 5w30 (1 л)",
+      "price": 840,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [3,4],
+      "bigImg": "/images/goods/03.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/10.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/11.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/12.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/13.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": true,
+      "discountPercent": 15,
+      "oldPrice": true,
+      "oldPriceValue": 950,
+      "gift": false
+    },
+    {
+      "id": 4,
+      "alias": "mobil",
+      "name": "Масло моторное IDEMITSU F-S 5w-30 (1л)",
+      "price": 970,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [1,4],
+      "bigImg": "/images/goods/04.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/14.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/15.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/01.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/02.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": false,
+      "discountPercent": 20,
+      "oldPrice": false,
+      "oldPriceValue": 2150,
+      "gift": false
+    },
+    {
+      "id": 5,
+      "alias": "mobil",
+      "name": "Масло моторное IDEMITSU F-S 5w-40 (1л)",
+      "price": 1050,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [2,4],
+      "bigImg": "/images/goods/05.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/03.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/05.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/07.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/09.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": true,
+      "discountPercent": 25,
+      "oldPrice": true,
+      "oldPriceValue": 2150,
+      "gift": true,
+      "inStock": 15
+    },
+    {
+      "id": 6,
+      "alias": "mobil",
+      "name": "GAZPROMNEFT Premium N 5w-40 (1л)",
+      "price": 620,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [3,4],
+      "bigImg": "/images/goods/06.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/11.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/13.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/15.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": true,
+      "discountPercent": 11,
+      "oldPrice": true,
+      "oldPriceValue": 2150,
+      "gift": true,
+      "inStock": 554
+    },
+    {
+      "id":7,
+      "alias": "mobil",
+      "name": "G-ENERGY Synthetic Active 5w-40 (1л)",
+      "price": 630,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [1,2,3,4],
+      "bigImg": "/images/goods/07.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/02.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/04.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/06.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/08.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": false,
+      "discountPercent": 15,
+      "oldPrice": true,
+      "oldPriceValue": 2150,
+      "gift": true,
+      "inStock": 13
+    },
+    {
+      "id": 8,
+      "alias": "mobil",
+      "name": "ELF Evol 900 NF 5w-40 (1л)",
+      "price": 900,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [1],
+      "bigImg": "/images/goods/08.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/10.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/12.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/14.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/15.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": true,
+      "discountPercent": 35,
+      "oldPrice": true,
+      "oldPriceValue": 2150,
+      "gift": false,
+      "inStock": 5895
+    },
+    {
+      "id": 9,
+      "alias": "mobil",
+      "name": "Масло моторное ELF EVOLUTION NF 5w40 синт. 1л",
+      "price": 920,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [2],
+      "bigImg": "/images/goods/09.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/01.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/02.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/03.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/04.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": false,
+      "discountPercent": 7,
+      "oldPrice": false,
+      "oldPriceValue": 2150,
+      "gift": false,
+      "inStock": 10
+    },
+    {
+      "id": 10,
+      "alias": "mobil",
+      "name": "TOTAL Quartz 9000 5w-40 (1л)",
+      "price": 1450,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [3],
+      "bigImg": "/images/goods/10.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/05.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/06.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/07.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/08.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": true,
+      "discountPercent": 8,
+      "oldPrice": true,
+      "oldPriceValue": 2150,
+      "gift": true,
+      "inStock": 58
+    },
+    {
+      "id": 11,
+      "alias": "mobil",
+      "name": "SHELL Helix HX8 5w-40 (1л)",
+      "price": 1700,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [4],
+      "bigImg": "/images/goods/11.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/09.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/10.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/11.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/12.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": true,
+      "discountPercent": 29,
+      "oldPrice": true,
+      "oldPriceValue": 2150,
+      "gift": true,
+      "inStock": 69
+    },
+    {
+      "id": 12,
+      "alias": "mobil",
+      "name": "CASTROL Magnatec 5w-40 (1л)",
+      "price": 1900,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [2,3,4],
+      "bigImg": "/images/goods/12.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/13.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/14.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/15.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/01.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": false,
+      "discountPercent": 41,
+      "oldPrice": false,
+      "oldPriceValue": 2150,
+      "gift": true,
+      "inStock": 35
+    },
+    {
+      "id": 13,
+      "alias": "mobil",
+      "name": "ELF Evol 900 SXR 5w-30 (1л)",
+      "price": 1840,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [4,1],
+      "bigImg":  "/images/goods/13.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/03.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/05.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/07.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/09.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": true,
+      "discountPercent": 3,
+      "oldPrice": true,
+      "oldPriceValue": 2150,
+      "gift": false,
+      "inStock": 35
+    },
+    {
+      "id": 14,
+      "alias": "mobil",
+      "name": "MOBIL Super 3000 x1 5w-40 (1л)",
+      "price": 470,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [2,1],
+      "bigImg": "/images/goods/14.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/11.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/13.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/15.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/02.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": false,
+      "discountPercent": 6,
+      "oldPrice": false,
+      "oldPriceValue": 2150,
+      "gift": false,
+      "inStock": 21
+    },
+    {
+      "id": 15,
+      "alias": "mobil",
+      "name": "MOBIL Super 3000 x1 F-FE 5w-30 (1л)",
+      "price": 320,
+      "category": "Моторные масла",
+      "isAvailable": true,
+      "availableStoresId": [1,2,3,4],
+      "bigImg": "/images/goods/15.jpg",
+      "img": [
+        {
+          "id": 1,
+          "src": "/images/goods/04.jpg"},
+        {
+          "id": 2,
+          "src": "/images/goods/06.jpg"},
+        {
+          "id": 3,
+          "src": "/images/goods/08.jpg"},
+        {
+          "id": 4,
+          "src": "/images/goods/10.jpg"}
+      ],
+      "shortListProperties": [
+        {
+          "id": 1,
+          "property":  "полусинтетическое моторное масло"
+        },
+        {
+          "id": 2,
+          "property":  "объем упаковки 4 л"
+        },
+        {
+          "id": 3,
+          "property":  "класс вязкости 10W-40"
+        },
+        {
+          "id": 4,
+          "property":  "класс API — SG"
+        }
+      ],
+      "discount": true,
+      "discountPercent": 8,
+      "oldPrice": true,
+      "oldPriceValue": 2150,
+      "gift": true,
+      "inStock": 14
+    }
+  ],
+  "LinksToCategoryPage": [
+    {
+      "id": 1,
+      "iconSrc": "/images/icons/list-to-categories-links/list-to-categories-links_parts.svg",
+      "altText": "Запчасти иконка",
+      "title": "Запчасти",
+      "url":"/mvp/"
+    },
+    {
+      "id": 2,
+      "iconSrc": "/images/icons/list-to-categories-links/list-to-categories-links_tyres.svg",
+      "altText": "Шины иконка",
+      "title": "Шины",
+      "url":"/mvp/"
+    },
+    {
+      "id": 3,
+      "iconSrc": "/images/icons/list-to-categories-links/list-to-categories-links_wheels.svg",
+      "altText": "Диски иконка",
+      "title": "Диски",
+      "url":"/mvp/"
+    },
+    {
+      "id": 4,
+      "iconSrc": "/images/icons/list-to-categories-links/list-to-categories-links_liquid.svg",
+      "altText": "Масла и жидкости иконка",
+      "title": "Масла и жидкости",
+      "url":"/mvp/"
+    },
+    {
+      "id": 5,
+      "iconSrc": "/images/icons/list-to-categories-links/list-to-categories-links_accu.svg",
+      "altText": "Аккумуляторы иконка",
+      "title": "Аккумуляторы",
+      "url":"/mvp/"
+    },
+    {
+      "id": 6,
+      "iconSrc": "/images/icons/list-to-categories-links/list-to-categories-links_light.svg",
+      "altText": "Лампы и освещение иконка",
+      "title": "Лампы и освещение",
+      "url":"/mvp/"
+    }
+  ],
+  "SearchResLinksSlider": [
+    {
+      "id": 1,
+      "name": "Легковые шины",
+      "imgSrc": "car-tyres",
+      "howMany": 102
+    },
+    {
+      "id": 2,
+      "name": "Шины для грузовиков",
+      "imgSrc": "truck-tyres",
+      "howMany": 93
+    },
+    {
+      "id": 3,
+      "name": "Мотошины",
+      "imgSrc": "moto-tyres",
+      "howMany": 7
+    },
+    {
+      "id": 4,
+      "name": "Шины для спецтехники",
+      "imgSrc": "special-tyres",
+      "howMany": 209
+    },
+    {
+      "id": 5,
+      "name": "Шины для курьеров на гироскутерах",
+      "imgSrc": "delivery-tyres",
+      "howMany": 1
+    }
+  ],
+  "SpecialOffers": [
+    {
+      "id": 1,
+      "typeOfOffer": "Уникальное предложение",
+      "title": "Переобуйся вместе с авто",
+      "condition": "Ограниченная серия",
+      "imgSrc": "/images/special-offers/special-offer-1.jpg",
+      "altText": "Переобуйся вместе с авто - картинка",
+      "url": "/mvp/"
+    },
+    {
+      "id": 2,
+      "typeOfOffer": "Сервис и ремонт",
+      "title": "Бесплатная диагностика",
+      "condition": "При записи через сайт",
+      "imgSrc": "/images/special-offers/special-offer-2.jpg",
+      "altText": "Бесплатная диагностика - картинка",
+      "url": "/mvp/",
+      "textColor": "black-text",
+      "conditionColor": "blueberry-text"
+    },
+    {
+      "id": 3,
+      "typeOfOffer": "Специальное предложение",
+      "title": "Балансировка в подарок",
+      "condition": "Записаться сейчас",
+      "imgSrc": "/images/special-offers/special-offer-3.jpg",
+      "altText": "Балансировка в подарок - картинка",
+      "url": "/mvp/"
+    }
+  ],
+  "GoodsForYourCar": [
+    {"id": 1, "url": "/mvp/", "image": "/images/icons/goods-for-your-car/goods-for-your-car__wheels.svg", "title": "Диски"},
+    {"id": 2, "url": "/mvp/", "image": "/images/icons/goods-for-your-car/goods-for-your-car__tyres.svg", "title": "Шины"},
+    {"id": 3, "url": "/mvp/", "image": "/images/icons/goods-for-your-car/goods-for-your-car__glass-cleaner.svg", "title": "Очиститель стекол"},
+    {"id": 4, "url": "/mvp/", "image": "/images/icons/goods-for-your-car/goods-for-your-car__motor-oil.svg", "title": "Масло Моторное"},
+    {"id": 5, "url": "/mvp/", "image": "/images/icons/goods-for-your-car/goods-for-your-car__accu.svg", "title": "Аккумуляторы"},
+    {"id": 6, "url": "/mvp/", "image": "/images/icons/goods-for-your-car/goods-for-your-car__tech-liquids.svg", "title": "Технические жидкости"},
+    {"id": 7, "url": "/mvp/", "image": "/images/icons/goods-for-your-car/goods-for-your-car__special-oils.svg", "title": "Специальные масла"},
+    {"id": 8, "url": "/mvp/", "image": "/images/icons/goods-for-your-car/goods-for-your-car__all-for-tyres-and-wheels.svg", "title": "Все для шин и дисков"}
+  ],
+  "CarBrand": [
+    {
+      "id": 1,
+      "name": "Ford"
+    },
+    {
+      "id": 2,
+      "name": "Audi"
+    },
+    {
+      "id": 3,
+      "name": "Dodge"
+    },
+    {
+      "id": 4,
+      "name": "Opel"
+    },
+    {
+      "id": 5,
+      "name": "Mazda"
+    },
+    {
+      "id": 6,
+      "name": "Toyota"
+    }
+  ],
+  "storeList": [
+    {
+      "id": 1,
+      "imgSrc": "komsomolskaya_sm.png",
+      "BigImgSrc": "komsomolskaya_lg.png",
+      "sliderImages": [
+        {
+          "id": 0,
+          "name": "komsomolskaya_lg.png"
+        },
+        {
+          "id": 1,
+          "name": "store-slider-1.png"
+        },
+        {
+          "id": 2,
+          "name": "store-slider-2.png"
+        }
+      ],
+      "address": "Комсомольская, 5",
+      "title": "Магазин + автосервис",
+      "openHours": 23,
+      "feedbackCount": 39,
+      "phoneAlias": "+7(343)226-03-01",
+      "phone": "+73432260301",
+      "carsWhatWeServe": [
+        {
+          "id": 1,
+          "name": "Lada (ВАЗ)"
+        },
+        {
+          "id": 2,
+          "name": "UAZ (УАЗ)"
+        },
+        {
+          "id": 3,
+          "name": "Москвич"
+        },
+        {
+          "id": 4,
+          "name": "ИЖ"
+        },
+        {
+          "id": 5,
+          "name": "Все иномарки"
+        }
+      ],
+      "alsoWeHave": [
+        {
+          "id": 1,
+          "text": "Бесплатный вайфай"
+        },
+        {
+          "id": 2,
+          "text": "Комната отдыха"
+        },
+        {
+          "id": 3,
+          "text": "Автомат с кофе, чаем и снеками"
+        },
+        {
+          "id": 4,
+          "text": "Телевизор"
+        },
+        {
+          "id": 5,
+          "text": "Кондиционер"
+        }
+      ],
+      "email": "magazin@planetavto.ru",
+      "also": [
+        {
+          "id": 1,
+          "text": "Магазин запчастей, шин и дисков"
+        },
+        {
+          "id": 2,
+          "text": "Автосервис"
+        },
+        {
+          "id": 3,
+          "text": "Шиномонтаж"
+        },
+        {
+          "id": 4,
+          "text": "Мойка"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imgSrc": "sibirski-trakt_sm.jpg",
+      "BigImgSrc": "sibirski-trakt_lg.png",
+      "sliderImages": [
+        {
+          "id": 0,
+          "name": "sibirski-trakt_lg.png"
+        },
+        {
+          "id": 1,
+          "name": "store-slider-1.png"
+        },
+        {
+          "id": 2,
+          "name": "store-slider-2.png"
+        }
+      ],
+      "address": "Сибирский тракт, 21",
+      "title": "Магазин + автомойка",
+      "openHours": 23,
+      "feedbackCount": 18,
+      "phoneAlias": "+7(343)226-03-02",
+      "phone": "+73432260302",
+      "email": "magazin@planetavto.ru",
+      "also": [
+        {
+          "id": 1,
+          "text": "Магазин запчастей, шин и дисков"
+        },
+        {
+          "id": 2,
+          "text": "Автосервис"
+        },
+        {
+          "id": 3,
+          "text": "Шиномонтаж"
+        },
+        {
+          "id": 4,
+          "text": "Мойка"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imgSrc": "berezovski-trakt_sm.jpg",
+      "BigImgSrc": "berezovski-trakt_lg.png",
+      "sliderImages": [
+        {
+          "id": 0,
+          "name": "berezovski-trakt_lg.png"
+        },
+        {
+          "id": 1,
+          "name": "store-slider-1.png"
+        },
+        {
+          "id": 2,
+          "name": "store-slider-2.png"
+        }
+      ],
+      "address": "Берёзовский тракт, 2",
+      "title": "Магазин + автосервис",
+      "openHours": 23,
+      "feedbackCount": 86,
+      "phoneAlias": "+7(343)226-03-03",
+      "phone": "+73432260303",
+      "email": "magazin@planetavto.ru",
+      "also": [
+        {
+          "id": 1,
+          "text": "Магазин запчастей, шин и дисков"
+        },
+        {
+          "id": 2,
+          "text": "Автосервис"
+        },
+        {
+          "id": 3,
+          "text": "Шиномонтаж"
+        },
+        {
+          "id": 4,
+          "text": "Мойка"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imgSrc": "pohodnaya_sm.jpg",
+      "BigImgSrc": "pohodnaya_lg.png",
+      "sliderImages": [
+        {
+          "id": 0,
+          "name": "pohodnaya_lg.png"
+        },
+        {
+          "id": 1,
+          "name": "store-slider-1.png"
+        },
+        {
+          "id": 2,
+          "name": "store-slider-2.png"
+        }
+      ],
+      "address": "Походная, 81",
+      "title": "Магазин + шиномонтаж",
+      "openHours": 23,
+      "feedbackCount": 10,
+      "phoneAlias": "+7(343)226-03-04",
+      "phone": "+73432260304",
+      "email": "magazin@planetavto.ru",
+      "also": [
+        {
+          "id": 1,
+          "text": "Магазин запчастей, шин и дисков"
+        },
+        {
+          "id": 2,
+          "text": "Автосервис"
+        },
+        {
+          "id": 3,
+          "text": "Шиномонтаж"
+        },
+        {
+          "id": 4,
+          "text": "Мойка"
+        }
+      ]
+    }
+  ],
+  "searchQuery": [
+    { "id": 1,
+      "query": "skoda"},
+    {"id": 2,
+      "query": "mercedes"},
+    {"id": 3,
+      "query": "nokian"},
+    {"id": 4,
+      "query": "pirelli"},
+    {"id": 5,
+      "query": "bridgestone"},
+    {"id": 6,
+      "query": "hakka"},
+    {"id": 7,
+      "query": "p-zero"},
+    {"id": 8,
+      "query": "аком"},
+    {"id": 9,
+      "query": "шины"},
+    {"id": 10,
+      "query": "диски"},
+    {"id": 11,
+      "query": "колеса"},
+    {"id": 12,
+      "query": "аккумуляторы"},
+    {"id": 13,
+      "query": "mann"},
+    {"id": 14,
+      "query": "filter mann"},
+    {"id": 15,
+      "query": "filtero"}
+  ],
+  "promoBanners": [
+    {
+      "id": 1,
+      "image": "/images/sales/sales-img1.jpg",
+      "promoPeriod": "30 сен 2019",
+      "bigImage": "/images/sales/sales-bigimg1.jpg",
+      "header": "Распродажа летнего ассортимента",
+      "storeSale": true,
+      "conditions": [
+        {
+          "id": 1,
+          "text": "Выбрать товар в каталоге и добавить его в корзину."
+        },
+        {
+          "id": 2,
+          "text": "Оформить заказ с доставкой или самовывозом."
+        },
+        {
+          "id": 3,
+          "text": "Получить товар со скидкой в магазине или у курьера."
+        }
+      ],
+      "howToUse": null
+    },
+    {
+      "id": 2,
+      "image": "/images/sales/sales-img2.jpg",
+      "promoPeriod": "29 сен 2020",
+      "bigImage": "/images/sales/sales-bigimg2.jpg",
+      "header": "Фильтр в подарок, при покупке масла «TOTAL» или «ELF»",
+      "storeSale": true,
+      "conditions": [
+        {
+          "id": 1,
+          "text": "Выбрать моторное масло «Total» или «Elf» в каталоге и добавить его в корзину."
+        },
+        {
+          "id": 2,
+          "text": "Оформить заказ с доставкой или самовывозом."
+        },
+        {
+          "id": 3,
+          "text": "Получить фильтр в подарок вместе с заказом в магазине или у курьера."
+        }
+      ],
+      "howToUse": [
+        {
+          "id": 1,
+          "text": "Выбрать в магазине моторное масло «Total» или «Elf». Уточнить наличие."
+        },
+        {
+          "id": 2,
+          "text": "Оплатить товар на кассе, получить фильтр в подарок."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "/images/sales/sales-img3.jpg",
+      "promoPeriod": "28 сен 2021",
+      "bigImage": "/images/sales/sales-bigimg3.jpg",
+      "header": "Заправь кондиционер всего за 1200 руб.",
+      "storeSale": false,
+      "conditions": null,
+      "howToUse": null
+    }
+  ]
+}

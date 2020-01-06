@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>BF6999E0-2131-47B6-849B-9EDE7E20EB57</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M10.7719771,13.2288742 C12.3556564,14.8125237 14.1888056,16.3254746 14.9129753,15.6013186 C15.9512548,14.5630585 16.5905845,13.6591259 18.8772235,15.4983005 C21.1658825,17.3374752 19.4094933,18.5625816 18.4035337,19.5675123 C17.2430443,20.72798 12.9192362,19.6281111 8.64491803,15.3548833 C4.37059991,11.0806455 3.27273039,6.75691867 4.43220988,5.59645099 C5.43816944,4.59152031 6.6632989,2.83415411 8.50250809,5.12176011 C10.3407073,7.40936612 9.43675768,8.04868382 8.39948814,9.08694385 C7.67531845,9.81210991 9.18829779,11.6452247 10.7719771,13.2288742 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ic/-Contacts/-1">
+            <g id="Group">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="Color/-Prime/-Blueberry" mask="url(#mask-2)" fill="#FFFFFF">
+                    <rect id="Blueberry" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

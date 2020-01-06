@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+<defs>
+    <path id="likebanner" d="M15.65 9.363c-.132-.356 3.54-3.635 1.397-6.291-.502-.623-2.2 2.975-4.616 4.603C11.1 8.574 8 10.485 8 11.542v6.84C8 19.654 12.914 21 16.65 21c1.367 0 3.35-8.576 3.35-9.938.001-1.367-4.218-1.343-4.35-1.7zM7 9.459c-.658 0-3 .4-3 3.122v4.848c0 2.72 2.342 3.022 3 3.022.658 0-1-.573-1-2.26v-6.373c0-1.77 1.658-2.36 1-2.36z"/>
+</defs>
+<g fill="none" fill-rule="evenodd">
+    <path d="M0 0h24v24H0z"/>
+    <mask id="likebannerMask" fill="#fff">
+        <use xlink:href="#likebanner"/>
+    </mask>
+    <g fill="#32377D" mask="url(#likebannerMask)">
+        <path d="M1 0h24v24H1z"/>
+    </g>
+</g>
+</svg>

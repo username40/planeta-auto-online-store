@@ -1,0 +1,60 @@
+.crud-wrap {
+  .crud-table {
+    .v-messages {
+      min-height: 0;
+    }
+
+    .v-input--selection-controls__input {
+      margin-right: 0;
+    }
+
+    .v-input--selection-controls:not(.v-input--hide-details) .v-input__slot {
+      margin-bottom: 0;
+    }
+
+    .v-input {
+      //justify-content: center;
+      align-items: center;
+    }
+  }
+
+  .crud-search {
+    .v-date-range__input-field {
+      min-width: 222px;
+    }
+  }
+  .v-btn--floating .v-icon{
+    height: auto;
+  }
+
+}
+
+.crud-update-form {
+  .upload-btn {
+    padding-left: 0 !important;;
+    padding-right: 0 !important;;
+    margin-left: 0 !important;
+    .upload-btn-hover {
+      //width: ;
+      width: 48px !important;
+      height: 48px !important;
+      margin-left: 0;
+    }
+
+  }
+  .image-field {
+    .v-avatar {
+      margin-top: 6px;
+      margin-bottom: 6px;
+    }
+  }
+
+  .hidden-tabs .v-tabs__bar {
+    display: none;
+  }
+  .text-editor-field .ck-editor {
+    width: 100% !important;
+  }
+}
+
+

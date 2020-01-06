@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <path id="confirm-icon" d="M11.866 2C17.39 1.928 21.926 6.346 22 11.867c.074 5.521-4.344 10.058-9.865 10.133-5.522.073-10.06-4.345-10.133-9.865-.074-5.522 4.344-10.06 9.865-10.133zm5.543 4.18c-.588-.348-1.36-.176-1.727.383L10.367 14.7l-2.114-2.66a1.295 1.295 0 0 0-1.756-.231 1.158 1.158 0 0 0-.243 1.673l3.213 4.045c.238.3.609.474 1 .474h.058a1.263 1.263 0 0 0 1.006-.562l6.279-9.611c.367-.56.186-1.297-.4-1.646z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h24v24H0z"/>
+        <mask id="confirm-icon-0" fill="#fff">
+            <use xlink:href="#confirm-icon"/>
+        </mask>
+        <g fill="#32377D" mask="url(#confirm-icon-0)">
+            <path d="M0 0h24v24H0z"/>
+        </g>
+    </g>
+</svg>

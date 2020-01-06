@@ -1,0 +1,11 @@
+body{
+    font-family: $notoFont;
+}
+
+@font-face {
+    font-family: $notoFont;
+    src: url('fonts/NotoSans-Regular.woff2') format('woff2'), url('fonts/NotoSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

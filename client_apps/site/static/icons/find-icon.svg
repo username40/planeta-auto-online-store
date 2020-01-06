@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>ACD261D9-C45D-4413-BF96-14AF5A19806B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M19.6402345,17.53618 L15.813793,13.7100486 C16.3896515,12.7619535 16.7230971,11.6481718 16.7230971,10.4576835 C16.7230971,6.9976988 13.7241325,4 10.2648902,4 C6.80564798,4 4,6.80542061 4,10.2654053 C4,13.7253899 6.99896459,16.722066 10.457184,16.722066 C11.6078781,16.722066 12.6859507,16.4101253 13.6116201,15.8701099 L17.4595413,19.7177193 C17.8359461,20.0940936 18.4465811,20.0940936 18.822986,19.7177193 L19.7783178,18.7634876 C20.152677,18.3860905 20.0166393,17.9125543 19.6402345,17.53618 L19.6402345,17.53618 Z M5.92600625,10.2643825 C5.92600625,7.86908719 7.86735509,5.92687292 10.2628445,5.92687292 C12.6593568,5.92687292 14.7940223,8.06136538 14.7940223,10.4576835 C14.7940223,12.8529788 12.8526734,14.7941703 10.4561612,14.7941703 C8.0606717,14.7941703 5.92600625,12.6596778 5.92600625,10.2643825 L5.92600625,10.2643825 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ic/-Search/-1">
+            <g id="Group-Copy-4">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="Color/-Prime/-Blueberry" mask="url(#mask-2)" fill="#FFFFFF">
+                    <rect id="Blueberry" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

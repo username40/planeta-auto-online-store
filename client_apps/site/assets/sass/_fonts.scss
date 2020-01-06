@@ -1,0 +1,27 @@
+body{
+    font-family: $notoFont;
+}
+
+@font-face {
+    font-family: $notoFont;
+    src: url('fonts/NotoSans-Regular.woff2') format('woff2'), url('fonts/NotoSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: $notoBoldFont;
+    src: url('fonts/NotoSans-Bold.woff') format('woff'),
+    url('fonts/NotoSans-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: $notoSemiBoldFont;
+    src: url('fonts/NotoSans-SemiBold.woff') format('woff'),
+    url('fonts/NotoSans-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
